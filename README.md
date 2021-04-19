@@ -1,5 +1,5 @@
 # interorganizational-system
-This is a project of interorganizational system to interchange information that 
+This is a project of Agile development which is to build an interorganizational system to interchange information that 
 used in the daily operations of two target companies: Amazon(E-commerce) and DHL(Logistic)
 
 # Objective
